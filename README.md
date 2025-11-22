@@ -3,3 +3,6 @@
 
 
 # Multicollinearity.
+
+# cross validation 
+
